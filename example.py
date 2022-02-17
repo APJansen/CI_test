@@ -7,5 +7,5 @@ def test_add():
     assert add('space', 'ship') == 'spaceship'
 
 
-subtract(a, b):
+def subtract(a, b):
     return a + b
